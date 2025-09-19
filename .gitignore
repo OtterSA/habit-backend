@@ -1,3 +1,9 @@
+# Node
 node_modules/
+npm-debug.log
 .env
-*.json
+
+# Firebase service account key
+serviceAccountKey.json
+habit-46b0e-firebase-adminsdk-fbsvc-c067fd7100.json
+serviceAccountKey.json
